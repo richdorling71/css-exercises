@@ -1,0 +1,17 @@
+/* styles.css */
+.odds {
+    background-color: #f13c88;
+    font-family: "Verdana", "DejaVu sans", sans-serif;
+}
+#element2 {
+    color:hsl(240, 69%, 45%);
+    font-size: 36px;
+}
+#element4 {
+    color: #b2ebb4;
+    font-size: 24px;
+    font-weight: bold;
+}
+.odds#element3 {
+    font-size: 24px;
+}
